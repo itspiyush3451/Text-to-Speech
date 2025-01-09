@@ -2,11 +2,7 @@
 
 A simple and efficient Text-to-Speech (TTS) converter built using JavaScript, Vite, JSX, Tailwind CSS, and HTML. This project allows you to convert text into natural-sounding speech directly in the browser, offering a user-friendly interface and customizable options like rate, pitch, and volume.
 
-## Technologies Used:
-- **JavaScript (Vite, JSX)**
-- **Tailwind CSS**
-- **HTML**
-- **Web Speech API**
+
 
 ## Features:
 - Converts input text into high-quality, natural-sounding speech.
