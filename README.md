@@ -23,4 +23,4 @@ A simple and efficient Text-to-Speech (TTS) converter built using JavaScript, Vi
 ### 1. Clone the Repository
 Clone the repository to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/Text-to-Speech.git
+git clone https://github.com/itspiyush3451/Text-to-Speech.git
