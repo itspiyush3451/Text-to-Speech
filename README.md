@@ -39,7 +39,7 @@ Start the development server to view the project locally:
 ```bash
 npm run dev
 ```
-This will launch the project in your default web browser, typically at `http://localhost:3000` , but it may vary .
+This will launch the project in your default web browser, typically at `http://localhost:5173` , but it may vary .
 
 ## How to Use:
 - Enter the text you want to convert into speech in the text area.
